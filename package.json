@@ -1,0 +1,8 @@
+{
+  "name": "macbooks",
+  "description": "List of Agatha Christie books",
+  "version": "0.0.1",
+  "engines": {
+    "node": "6.8.1"
+  }
+}
